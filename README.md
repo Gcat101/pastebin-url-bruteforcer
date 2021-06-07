@@ -10,6 +10,6 @@ Helps with some dumb people that forget that capitalisation matters and with som
 # Legal?
 Yep
 # Download?
-[Here you go!](https://drive.google.com/file/d/1cJ9EcpDcQUG_nEXkKqtYeAc5K5Js3tQ0/view?usp=sharing)
+[Here you go!](https://drive.google.com/file/d/15TYtdN8QLJ2XzsRDyw_bC2_64IPQRITJ/view?usp=sharing)
 # More info?
 No.
