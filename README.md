@@ -10,6 +10,6 @@ Helps with some dumb people that forget that capitalisation matters and with som
 # Legal?
 Yep
 # Download?
-[Here you go!](https://drive.google.com/file/d/15TYtdN8QLJ2XzsRDyw_bC2_64IPQRITJ/view?usp=sharing)
+[Here you go!](https://github.com/Gcat101/pastebin-url-bruteforcer/releases/tag/1.0)
 # More info?
 No.
