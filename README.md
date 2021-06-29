@@ -3,6 +3,8 @@ Bruteforce pastebin link capitalisation
 
 ![pastebin](https://user-images.githubusercontent.com/79367505/121056634-0e768600-c7c7-11eb-9281-9e1af5246dbb.png)
 
+# THIS VERSION IS OBSOLETE, DOWNLOAD ULTIMATE-URL-BRUTEFORCER.
+
 # How?
 Python and requests.
 # Why?
